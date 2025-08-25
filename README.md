@@ -332,10 +332,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Screenshots
 
 ### GiteaMGMT Upload GUI
-<img src="screenshots/upload.png" alt="GiteaMGMT Upload GUI" width="500">
+<img src="screenshots/upload.png" alt="GiteaMGMT Upload GUI" width="800">
 
 ### GiteaMGMT Management GUI
-<img src="screenshots/mgmt.png" alt="GiteaMGMT Management GUI" width="500">
+<img src="screenshots/mgmt.png" alt="GiteaMGMT Management GUI" width="800">
 
 ### GiteaMGMT Help GUI
-<img src="screenshots/help.png" alt="GiteaMGMT Help GUI" width="500">
+<img src="screenshots/help.png" alt="GiteaMGMT Help GUI" width="800">
