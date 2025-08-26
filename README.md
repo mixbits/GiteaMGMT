@@ -21,7 +21,6 @@ The Gitea Manager provides a user-friendly interface for managing the upload of 
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -37,6 +36,7 @@ The Gitea Manager provides a user-friendly interface for managing the upload of 
 - [FAQ](#faq)
 - [Contributing](#contributing)
 - [License](#license)
+- [Screenshots](#screenshots)
 
 ## Features
 
