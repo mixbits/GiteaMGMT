@@ -72,10 +72,6 @@ The Gitea Manager provides a user-friendly interface for managing the upload of 
   - Remember previously used settings
   - Tooltip help system
 
-## Screenshots
-
-*[Screenshots would be added here in a real README file]*
-
 ## Requirements
 
 - Git CLI installed and on PATH (required for Git push mode)
